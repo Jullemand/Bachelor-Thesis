@@ -9,11 +9,11 @@ This is Julian Valdman's Bachelor Thesis spring 2022
 
 ## Table of Content of the Report
 
-(1) Introduction
-(2) The eBay marketplace and data
-(3) Maximum Likelihood Estimation
-(4) Artificial Neural Networks and Multi-class classfication
-(5) Discussion and Conclusion
+1. Introduction
+2. The eBay marketplace and data
+3. Maximum Likelihood Estimation
+4. Artificial Neural Networks and Multi-class classfication
+5. Discussion and Conclusion
 
 ## Methods
 The analysis comprises 2 different methods of price analysis:
