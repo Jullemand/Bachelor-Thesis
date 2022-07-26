@@ -7,6 +7,10 @@ This is Julian Valdman's Bachelor Thesis spring 2022
 
 **Title**: Semi- and nonparametric estimation of price dispersion and auction heterogeneity with eBay auctions
 
+**Where**: University of Copenhagen
+
+**When**: June 2022
+
 ## Table of Content of the Report
 
 1. Introduction
