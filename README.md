@@ -1,8 +1,18 @@
-# bachelor_thesis
+# Bachelor Thesis (Data Science and Economics)
 This is Julian Valdman's Bachelor Thesis spring 2022
 
-## Thesis Title
-Semi- and nonparametric estimation of price dispersion and auction heterogeneity with eBay auctions
+## Thesis Information
+
+**Major**: Data Science and Economics
+**Title**: Semi- and nonparametric estimation of price dispersion and auction heterogeneity with eBay auctions
+
+## Table of Content of the Report
+
+(1) Introduction
+(2) The eBay marketplace and data
+(3) Maximum Likelihood Estimation
+(4) Artificial Neural Networks and Multi-class classfication
+(5) Discussion and Conclusion
 
 ## Methods
 The analysis comprises 2 different methods of price analysis:
