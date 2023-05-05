@@ -11,6 +11,8 @@ This is Julian Valdman's Bachelor Thesis spring 2022
 
 **When**: June 2022
 
+**Grade**: 12 (A)
+
 ## Table of Content of the Report
 
 1. Introduction
